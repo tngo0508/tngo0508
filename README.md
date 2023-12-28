@@ -1,9 +1,11 @@
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=tngo0508&theme=default&show_icons=true&count_private=true&hide_border=true&locale=en)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tngo0508&langs_count=5&theme=default&hide_border=true&layout=compact&locale=en)]() -->
 
+# GitHub Stats
 | <img align="left" src="https://github-readme-stats.vercel.app/api/?username=tngo0508&theme=default&rank_icon=github&count_private=true&hide_border=true&locale=en" /> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tngo0508&langs_count=9&theme=default&hide_border=true&layout=compact&locale=en" /> |
 |--|--|
 
+# LeetCode Stats
 [![tngo0508's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=tngo0508)](https://github.com/tngo0508/leetcode-stats)
 
 # Hello, World! 👋
