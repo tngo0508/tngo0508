@@ -33,7 +33,87 @@ I'm Thomas Ngo, a passionate Software Engineer with a love for coding and proble
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vscode.svg"
-      alt="JavaScript"
+      alt="vscode"
+      width="48"
+      height="58"
+    />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_csharp2.svg"
+      alt="csharp"
+      width="48"
+      height="58"
+    />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_docker.svg"
+      alt="docker"
+      width="48"
+      height="58"
+    />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mysql.svg"
+      alt="mysql"
+      width="48"
+      height="58"
+    />
+  </a>
+  <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_azure.svg"
+      alt="azure"
+      width="48"
+      height="58"
+    />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_git.svg"
+      alt="git"
+      width="48"
+      height="58"
+    />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/labs/b/ba/Kubernetes-icon-color.svg"
+      alt="kubernetes"
+      width="48"
+      height="58"
+    />
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_django.svg"
+      alt="django"
+      width="48"
+      height="58"
+    />
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg"
+      alt="reactjs"
+      width="48"
+      height="58"
+    />
+  </a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_gitlab.svg"
+      alt="gitlab"
+      width="48"
+      height="58"
+    />
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_postman.svg"
+      alt="postman"
       width="48"
       height="58"
     />
