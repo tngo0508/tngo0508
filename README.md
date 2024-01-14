@@ -13,9 +13,33 @@
 I'm Thomas Ngo, a passionate Software Engineer with a love for coding and problem-solving. 🚀
 
 ## 🔧 Technologies & Tools
-- Python | JavaScript | C# | SQL
-- AWS Certified Cloud Practitioner
-- LeetCode Enthusiast
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"
+      alt="Python"
+      width="48"
+      height="58"
+    />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js_official.svg"
+      alt="JavaScript"
+      width="48"
+      height="58"
+    />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vscode.svg"
+      alt="JavaScript"
+      width="48"
+      height="58"
+    />
+  </a>
+</p>
+
 
 ## 🌐 Web Development
 Experienced in building robust web applications using technologies like MongoDB, ExpressJS, and more.
