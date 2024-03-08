@@ -6,7 +6,9 @@
 |--|--|
 
 # LeetCode Stats
-[![tngo0508's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=tngo0508)](https://github.com/tngo0508/leetcode-stats)
+<!-- [![tngo0508's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=tngo0508)](https://github.com/tngo0508/leetcode-stats) -->
+
+![tngo0508's LeetCode stats](https://leetcard.jacoblin.cool/tngo0508?ext=heatmap)
 
 # Hello, World! 👋
 
