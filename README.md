@@ -10,8 +10,6 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/tngo0508?theme=dark&font=Noto%20Serif&ext=heatmap)
 
-# Hello, World! 👋
-
 I'm Thomas Ngo, a passionate Software Engineer with a love for coding and problem-solving. 🚀
 
 ## 🔧 Technologies & Tools
