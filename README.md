@@ -10,9 +10,9 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/tngo0508?theme=dark&font=Noto%20Serif&ext=heatmap)
 
-I'm Thomas Ngo, a passionate Software Engineer with a love for coding and problem-solving. 🚀
+I'm Thomas Ngo, a passionate Software Engineer with a love for coding and problem-solving.
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img
@@ -57,14 +57,14 @@ I'm Thomas Ngo, a passionate Software Engineer with a love for coding and proble
 </p>
 
 
-## 🌐 Web Development
-Experienced in building robust web applications using technologies like MongoDB, ExpressJS, and more.
+## Web Development
+Experienced in building robust web applications using technologies like .NET CORE, MVC, Blazor, SQL Server, Azure, etc.
 
-## 📚 Education
+## Education
 - Master of Science in Computer Science, California State University, Fullerton
 - Bachelor of Science in Computer Science, California State University, Fullerton
 
-## 📫 Let's Connect
+## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/thomasngo19/)
 - [LeetCode](https://leetcode.com/tngo0508/)
 - [Email](mailto:tngo0508l@gmail.com)
