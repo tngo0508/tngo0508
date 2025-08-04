@@ -14,22 +14,6 @@ I'm Thomas Ngo, a passionate Software Engineer with a love for coding and proble
 
 ## 🔧 Technologies & Tools
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"
-      alt="Python"
-      width="48"
-      height="58"
-    />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js_official.svg"
-      alt="JavaScript"
-      width="48"
-      height="58"
-    />
-  </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vscode.svg"
@@ -46,22 +30,6 @@ I'm Thomas Ngo, a passionate Software Engineer with a love for coding and proble
       height="58"
     />
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_docker.svg"
-      alt="docker"
-      width="48"
-      height="58"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mysql.svg"
-      alt="mysql"
-      width="48"
-      height="58"
-    />
-  </a>
   <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_azure.svg"
@@ -74,38 +42,6 @@ I'm Thomas Ngo, a passionate Software Engineer with a love for coding and proble
     <img
       src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_git.svg"
       alt="git"
-      width="48"
-      height="58"
-    />
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/labs/b/ba/Kubernetes-icon-color.svg"
-      alt="kubernetes"
-      width="48"
-      height="58"
-    />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_django.svg"
-      alt="django"
-      width="48"
-      height="58"
-    />
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg"
-      alt="reactjs"
-      width="48"
-      height="58"
-    />
-  </a>
-  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_gitlab.svg"
-      alt="gitlab"
       width="48"
       height="58"
     />
